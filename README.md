@@ -56,4 +56,4 @@ Open your browser: http://localhost:3000
 
    ```
 
-3. Your Browser should reload automatically
+3. Your browser should reload automatically
